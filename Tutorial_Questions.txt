@@ -1,0 +1,4 @@
+1) ls -lrt
+2)a) more -25 'file_name'
+  b) more +16 -10 'file_name'
+3) man -f 'option'
